@@ -1,2 +1,2 @@
-#React Native Simple Weather App
+# React Native Simple Weather App
 
